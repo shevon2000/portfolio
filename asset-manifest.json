@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f873c3ed.css",
+    "main.js": "/static/js/main.08def6b5.js",
+    "static/media/MoodMate.jpg": "/static/media/MoodMate.43005c9c6f6ff7c230ad.jpg",
+    "static/media/cv.pdf": "/static/media/cv.1ac209ce23bed692aadd.pdf",
+    "static/media/Portfolio.jpg": "/static/media/Portfolio.3cf1cc911d59045c4d6d.jpg",
+    "static/media/MoodMateAPI.jpg": "/static/media/MoodMateAPI.71bf0691e0ee945761af.jpg",
+    "static/media/BookSystem.jpg": "/static/media/BookSystem.fe4233eb756bc7a1b09f.jpg",
+    "static/media/VibeLog.jpg": "/static/media/VibeLog.179494c181ddeef0c29f.jpg",
+    "static/media/Todo.jpg": "/static/media/Todo.b1b48a6fc70df605d29a.jpg",
+    "static/media/header.jpg": "/static/media/header.ff3b2839ae1c413e788a.jpg",
+    "static/media/about.jpeg": "/static/media/about.674912774cd2aa0c508a.jpeg",
+    "static/media/OnGoing.png": "/static/media/OnGoing.f9d169e80e84e333a6d1.png",
+    "index.html": "/index.html",
+    "main.f873c3ed.css.map": "/static/css/main.f873c3ed.css.map",
+    "main.08def6b5.js.map": "/static/js/main.08def6b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f873c3ed.css",
+    "static/js/main.08def6b5.js"
+  ]
+}
