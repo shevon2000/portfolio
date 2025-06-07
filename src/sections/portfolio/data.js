@@ -40,7 +40,7 @@ const data = [
         image: Image4,
         title: "Responsive Personal Portfolio Website with Theme Customization",
         desc: "A fully responsive portfolio website built with HTML, CSS, and JavaScript. It showcases the developer’s work and skills, with features like light/dark mode and customizable theme colors, ensuring a smooth user experience across all devices.",
-        demo: 'http://egatortutorials.com',
+        demo: 'https://drive.google.com/file/d/1eUol2vNtSJmn_KzuYWOzpHMk42xChc6H/view?usp=drive_link',
         github: 'https://github.com/shevon2000/portfolio'
     },
     {
@@ -49,7 +49,7 @@ const data = [
         image: Image5,
         title: "GoDate - Fullstack Dating Web Application with Angular and ASP.NET Core",
         desc: "GoDate is a dating web application built with Angular and ASP.NET Core. It features user profiles, match browsing, and real-time messaging. The app follows clean architecture principles for scalability and a responsive UI for smooth user interaction.",
-        demo: 'https://drive.google.com/file/d/1QdQ-KekeZu_Ppu2ijuCgsax00Jld2J3c/view?usp=drive_link',
+        demo: 'https://drive.google.com/file/d/1W6luQDXO4zOUJXTYqFEdyWvt9gKCYZiB/view?usp=drive_link',
         github: 'https://github.com/shevon2000/GoDate'
     },
     {
