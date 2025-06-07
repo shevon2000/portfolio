@@ -142,7 +142,7 @@ Feel free to reach out if you have any questions or would like to connect:
 - **GitHub**: [@shevon2000](https://github.com/shevon2000)
 - **Email**: shevonfernando0214@gmail.com
 - **LinkedIn**: linkedin.com/in/shevon-fernando-2ab2a2122/
-- **Portfolio**: demourl
+- **Portfolio**: [demourl](https://shevon2000.github.io/portfolio/#portfolio)
 
 ## 📝 License
 
