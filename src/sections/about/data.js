@@ -1,14 +1,24 @@
-import {FaAward} from 'react-icons/fa'
-import {TbBooks} from 'react-icons/tb'
-import {BiHappyHeartEyes} from 'react-icons/bi'
-
+import { FaLaptopCode, FaProjectDiagram, FaTools } from 'react-icons/fa';
 
 const data = [
-    {id: 1, icon: <FaAward/>, title: 'Experience', desc: '2+ Years Working'},
-    {id: 2, icon: <TbBooks/>, title: 'Projects', desc: '20+ Completed'},
-    {id: 3, icon: <BiHappyHeartEyes/>, title: 'Technologies', desc: '15+ Tools & Frameworks Mastered'}
-    ]
+  {
+    id: 1,
+    icon: <FaLaptopCode />,
+    title: 'Experience',
+    desc: '2+ Years Working',
+  },
+  {
+    id: 2,
+    icon: <FaProjectDiagram />,
+    title: 'Projects',
+    desc: '15+ Completed',
+  },
+  {
+    id: 3,
+    icon: <FaTools />,
+    title: 'Technologies',
+    desc: '10+ Tools & Frameworks Mastered',
+  },
+];
 
-
-
-    export default data;
+export default data;
