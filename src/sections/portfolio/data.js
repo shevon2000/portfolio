@@ -47,7 +47,7 @@ const data = [
         id: 5,
         category: 'fullstack',
         image: Image5,
-        title: "GoDate - Fullstack Dating Web Application with Angular and ASP.NET Core",
+        title: "GoDate(Ongoing) - Fullstack Dating Web Application with Angular and ASP.NET Core",
         desc: "GoDate is a dating web application built with Angular and ASP.NET Core. It features user profiles, match browsing, and real-time messaging. The app follows clean architecture principles for scalability and a responsive UI for smooth user interaction.",
         demo: 'https://drive.google.com/file/d/1W6luQDXO4zOUJXTYqFEdyWvt9gKCYZiB/view?usp=drive_link',
         github: 'https://github.com/shevon2000/GoDate'
